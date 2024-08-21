@@ -1,10 +1,10 @@
-Package: gov50data
-Title: Datasets for Gov 50
+Package: ps270data
+Title: Datasets for PS270
 Version: 0.0.0.9000
 Authors@R: 
-    person("Matthew", "Blackwell", , "mblackwell@gov.harvard.edu", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-3689-9527"))
-Description: A collection of datasets for use in Gov 50 at Harvard University.
+    person("Soeren", "Henn", , "sjhenn@wisc.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9746-6293"))
+Description: A collection of datasets for use in PS270 at University of Wisconsin-Madison.
 License: MIT + file LICENSE
 Depends: R (>= 3.5)
 Imports: tibble
